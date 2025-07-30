@@ -44,7 +44,7 @@ Using the **COVID-19 Trends and Impact Survey (CTIS)** by CMU Delphi Research Gr
 
 ## 📄 Report Access
 
-Full technical report with modeling code, visualizations, and policy insights available upon request.
+Full technical report with modeling code, visualizations, and policy insights available above.
 
 ---
 
