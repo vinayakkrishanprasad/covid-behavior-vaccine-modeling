@@ -1,4 +1,4 @@
-# 🧠 COVID-19 Behavior & Belief-Based Prediction
+# COVID-19 Behavior & Belief-Based Prediction
 
 
 ---
@@ -52,3 +52,6 @@ Full technical report with modeling code, visualizations, and policy insights av
 
 For access to the full report or collaboration inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinayakprasad02).
 
+**Note** 
+
+This readme was written using AI. Please see report for further information. 
