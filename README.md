@@ -2,7 +2,7 @@
 
 **Team !404 Team Found**  
 *Vinayak Prasad, Ian Hash, Kavi Sarna, Rishika Thiruvengadam Dwaraghanath*  
-Carnegie Mellon University – MLPS Project
+Carnegie Mellon University – Machine Learning for Problem Project
 
 ---
 
