@@ -1,8 +1,5 @@
 # 🧠 COVID-19 Behavior & Belief-Based Prediction
 
-**Team !404 Team Found**  
-*Vinayak Prasad, Ian Hash, Kavi Sarna, Rishika Thiruvengadam Dwaraghanath*  
-Carnegie Mellon University – Machine Learning for Problem Project
 
 ---
 
